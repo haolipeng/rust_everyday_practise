@@ -1,0 +1,13 @@
+# Rust 编译输出目录
+**/target/
+
+# Rust 编译中间产物
+**/*.rs.bk
+*.pdb
+**/*.o
+**/*.so
+**/*.dylib
+**/*.dll
+**/*.rlib
+**/*.rmeta
+**/*.d

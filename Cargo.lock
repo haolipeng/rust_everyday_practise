@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "lesson4-pattern_match"
 version = "0.1.0"
+
+[[package]]
+name = "lesson5-trait"
+version = "0.1.0"

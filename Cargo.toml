@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "lesson1-borrow-basic",
+    "lesson2-borrow-lifecycle",
+    "lesson3-struct-enum-option-result",
+]
+resolver = "3"

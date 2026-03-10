@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = ["error_and_collections",
     "lesson1-borrow-basic",
     "lesson2-borrow-lifecycle",
     "lesson3-struct-enum-option-result", "lesson4-pattern_match", "lesson5-trait",

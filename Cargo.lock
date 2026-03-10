@@ -11,6 +11,10 @@ name = "borrow_lifecycle"
 version = "0.1.0"
 
 [[package]]
+name = "error_and_collections"
+version = "0.1.0"
+
+[[package]]
 name = "lesson3-struct-enum-option-result"
 version = "0.1.0"
 

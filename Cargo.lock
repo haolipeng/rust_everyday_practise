@@ -62,6 +62,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "lesson7-closure"
+version = "0.1.0"
+
+[[package]]
+name = "lesson8-iterator"
+version = "0.1.0"
+
+[[package]]
+name = "lesson9-module"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
 version = "0.2.183"
 source = "registry+https://github.com/rust-lang/crates.io-index"

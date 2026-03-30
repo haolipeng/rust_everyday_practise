@@ -1,0 +1,8 @@
+[package]
+name = "rust-option-map-and-then-demo"
+version = "0.1.0"
+edition = "2021"
+description = "Demo: Option::map vs Option::and_then (tutorial)"
+
+[dependencies]
+serde_json = "1"

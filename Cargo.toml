@@ -1,7 +1,15 @@
 [workspace]
-members = ["error_and_collections",
+members = [
     "lesson1-borrow-basic",
     "lesson2-borrow-lifecycle",
-    "lesson3-struct-enum-option-result", "lesson4-pattern_match", "lesson5-trait", "lesson6-async", "lesson7-closure", "lesson8-iterator", "lesson9-module",
+    "lesson3-struct-enum-option-result",
+    "lesson4-pattern_match",
+    "lesson5-trait",
+    "lesson6-error-and-collections",
+    "lesson7-async",
+    "lesson8-closure",
+    "lesson9-iterator",
+    "lesson10-module",
+    "lesson11-stream-analyzer",
 ]
 resolver = "3"
